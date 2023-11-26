@@ -1,2 +1,0 @@
-# CastleScript
-CastleScript
